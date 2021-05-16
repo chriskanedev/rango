@@ -27,7 +27,7 @@ SECRET_KEY = '(^9ofp0(0^)u5!tovt#dhxotl#q6mhk^o6a2jndf%bt0gc#m%r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ckrango.eu.pythonanywhere.com',]
 
 
 # Application definition
